@@ -10,4 +10,4 @@ jobs:
 
    steps:
      - name: grettings
-     run: echo "code with sohail"
+    run: echo "code with sohail"
