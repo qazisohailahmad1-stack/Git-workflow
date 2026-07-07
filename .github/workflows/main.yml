@@ -1,13 +1,13 @@
 name: sohail ahmad
 
-on: 
+on:
   push:
     branches: [ main ]
 
 jobs:
-  demo:
-    runs-on: ubuntu-latest
+   demo:
+     runs-on: ubuntu-latest
 
-    steps:
-      - name: grettings
-        run: echo "code with sohail"
+     steps:
+       - name: grettings
+         run: echo "code with sohail"
