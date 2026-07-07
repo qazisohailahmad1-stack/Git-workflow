@@ -1,6 +1,6 @@
 name: sohail ahmad
 
-on:
+on: 
   push:
     branches: [ main ]
 
